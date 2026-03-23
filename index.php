@@ -39,6 +39,7 @@ $ajax = isset($_POST['ajax']) ? true : false; // czy zapytanie zostało wykonane
 // Funkcja analizująca przeglądarkę użytkownika
 // ---------------------------------------------------
 
+// testerrt
 function parse_browser($ua) {
     $browser = "-";
     $version = "-";
